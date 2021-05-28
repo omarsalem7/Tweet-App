@@ -18,6 +18,5 @@ this is the project is like the tweet app contanin some features like:
 * React Hooks
 
 ## Project Setup
-
-* clone the Project - `git@github.com:udacity/reactnd-chirper-app.git`
-* install the dependencies - `npm install`
+* install all project dependencies with `npm install`
+* start the development server with `npm start`
