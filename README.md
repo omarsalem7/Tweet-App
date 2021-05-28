@@ -15,6 +15,7 @@ this is the project is like the tweet app contanin some features like:
 * React-redux
 * Thunk Middleware
 * React Router
+* React Hooks
 
 ## Project Setup
 
