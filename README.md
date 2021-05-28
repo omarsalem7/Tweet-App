@@ -8,6 +8,8 @@ this is the project is like the tweet app contanin some features like:
 * Time line for the newer tweets
 * There is a loading untill tweets return from the server
 
+## live preview [Tweet-App](https://objective-jepsen-d0f550.netlify.app/)
+
 # Technologies Used:
 * React-redux
 * Thunk Middleware
