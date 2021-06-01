@@ -8,7 +8,7 @@ the project is like the tweitte app contanin some features like:
 * Navigate a timeline of posts.
 
 ## Demo
-[Tweet-App](https://objective-jepsen-d0f550.netlify.app/)
+[Twitter-App](https://objective-jepsen-d0f550.netlify.app/)
 
 ## Technologies Used:
 * React
